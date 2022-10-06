@@ -1,10 +1,10 @@
 # Μάθημα: Επικοινωνία Ανθρώπου-Υπολογιστή
 
-Ονοματεπώνυμο: Κωνσταντίνος Καναβούρας  
+## Ονοματεπώνυμο: Κωνσταντίνος Καναβούρας  
 <br />
-ΑΜ: inf2021073  
+## ΑΜ: inf2021073  
 <br />
-GitHub Profile: [costas690](https://github.com/costas690)  
+## GitHub Profile: [costas690](https://github.com/costas690)  
 <br />
 
 
